@@ -30,7 +30,7 @@ Markify is a simple yet powerful tool that automatically detects and formats you
 
 ## 📸 Preview
 
-![Markify Preview](/public/markify-preview.png)
+![Markify Preview](/public/preview.gif)
 
 
 ## 📃 License
@@ -40,4 +40,4 @@ Licensed under the MIT License.
 
 ## 🔗 Live Demo
 
-👉 [Launch Markify](https://your-vercel-deployment-url.vercel.app)
+👉 [Launch Markify](https://markify-beta.vercel.app/)
